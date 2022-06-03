@@ -4,4 +4,4 @@ This project for get info trailer new movies and was integration with API api.th
 
 ## Demo 
 
-![App UI](/demo/demo.mp4)
+![App UI](/demo/demo.gif)
