@@ -2,6 +2,6 @@
 
 This project for get info trailer new movies and was integration with API api.themoviedb.org
 
-## Getting Started
+## Demo 
 
-
+![App UI](/demo/demo.mp4)
